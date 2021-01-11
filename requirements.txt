@@ -1,0 +1,5 @@
+gensim
+traceback
+en_core_web_sm
+bs4
+nltk
